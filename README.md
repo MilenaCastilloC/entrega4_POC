@@ -1,5 +1,5 @@
 # Tutorial 7 - Event Sourcing
-
+actualizado
 Repositorio con código base con la implementación de un servicio usando el patrón Event Sourcing.
 
 Este repositorio está basado en el repositorio de liberación de datos visto en el tutorial 6 del curso. Por tal motivo, puede usar ese mismo repositorio para entender algunos detalles que este README no cubre.
